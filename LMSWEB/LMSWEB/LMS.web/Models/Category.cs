@@ -8,9 +8,11 @@ namespace LMS.web.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Display(Name = "Category ID")]
         public int CategoryId { get; set; }
 
         [Required]
+        [Display(Name = "Category Name")]
         [Column(TypeName ="varchar(50)")]
         [StringLength(50)]
         public string CategoryName { get; set; }
