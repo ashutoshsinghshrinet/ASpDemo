@@ -350,3 +350,4 @@ D:\ASPdotNET\Practice\E-Commerce\obj\Debug\netcoreapp3.1\E-Commerce.csproj.CopyC
 D:\ASPdotNET\Practice\E-Commerce\obj\Debug\netcoreapp3.1\E-Commerce.dll
 D:\ASPdotNET\Practice\E-Commerce\obj\Debug\netcoreapp3.1\E-Commerce.pdb
 D:\ASPdotNET\Practice\E-Commerce\obj\Debug\netcoreapp3.1\E-Commerce.genruntimeconfig.cache
+D:\ASPdotNET\Practice\E-Commerce\obj\Debug\netcoreapp3.1\Razor\Areas\Demos\Views\Flipkart\sample.cshtml.g.cs

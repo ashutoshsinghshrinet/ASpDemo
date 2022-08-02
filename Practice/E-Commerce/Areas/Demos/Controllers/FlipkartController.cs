@@ -7,7 +7,7 @@ namespace E_Commerce.Areas.Demos.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View("Sample");
         }
     }
 }
